@@ -2,6 +2,13 @@
 
 The `pytrends` repository can be found [here](https://github.com/GeneralMills/pytrends).
 
+## Installation
+```
+pip install pytrends
+```
+
+## Interest Over Time
+
 ![ds](./data_science.png)
 
 ## For More Information
