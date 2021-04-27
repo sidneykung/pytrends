@@ -2,6 +2,10 @@
 
 The `pytrends` repository can be found [here](https://github.com/GeneralMills/pytrends).
 
+## Blog Post
+
+Check out my blog post about `pytrends` on Towards Data Science [here](https://towardsdatascience.com/jupyter-notebook-not-rendering-on-github-heres-a-simple-solution-e51aa6ca29b6?sk=bad177d6b37fcbd0cae5ab39a1cf4094).
+
 ## Installation
 ```
 pip install pytrends
