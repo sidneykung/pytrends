@@ -1,6 +1,6 @@
 # Tracking Keyword Trends on Google Search with Pytrends
 
-Pytrends is an unofficial API for tracking Google Search trends, and we can use matplotlib to visualize these trends over time. The `pytrends` repository can be found [here](https://github.com/GeneralMills/pytrends).
+Pytrends is an unofficial API for tracking Google Search trends and we can use matplotlib to visualize these trends over time. The `pytrends` repository can be found [here](https://github.com/GeneralMills/pytrends).
 
 ## Blog Post
 
